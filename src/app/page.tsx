@@ -1,10 +1,10 @@
-import Image from "next/image";
-import Hero from "./component/Hero";
-import Range from "./component/Range";
-import Product from "./component/Product";
-import Inspiration from "./component/Inspiration";
-import Furniture from "./component/Furniture";
-import Cart from "./cart/page";
+
+import Hero from "./Component/Hero";
+import Range from "./Component/Range";
+import Product from "./Component/Product";
+import Inspiration from "./Component/Inspiration";
+import Furniture from "./Component/Furniture";
+
 
 
 
